@@ -8,19 +8,19 @@ export default function Home() {
       <img src={banner} />
 
       <div className="flex font-light mb-10">
-        <div className="w-1/4 text-center px-20 border py-5 hover:text-orange-500 font-bold transition-all tracking-wider">
+        <div className="w-1/4 text-center px-20 border py-5 hover:text-orange-500 hover:font-bold font-medium transition-all tracking-wider">
           <div>Dịch Vụ Vận Chuyển</div>
           <div>Giao Hàng Nặng</div>
         </div>
-        <div className="w-1/4 text-center px-20 border py-5 hover:text-orange-500 font-bold transition-all">
+        <div className="w-1/4 text-center px-20 border py-5 hover:text-orange-500 hover:font-bold font-medium transition-all">
           <div>Dịch Vụ Vận Chuyển</div>
           <div>Giao Hàng Nặng</div>
         </div>
-        <div className="w-1/4 text-center px-20 border py-5 hover:text-orange-500 font-bold transition-all">
+        <div className="w-1/4 text-center px-20 border py-5 hover:text-orange-500 hover:font-bold font-medium transition-all">
           <div>Dịch Vụ Vận Chuyển</div>
           <div>Giao Hàng Nặng</div>
         </div>
-        <div className="w-1/4 text-center px-20 border py-5 hover:text-orange-500 font-bold transition-all">
+        <div className="w-1/4 text-center px-20 border py-5 hover:text-orange-500 hover:font-bold font-medium transition-all">
           <div>Dịch Vụ Vận Chuyển</div>
           <div>Giao Hàng Nặng</div>
         </div>
